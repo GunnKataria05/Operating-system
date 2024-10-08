@@ -1,0 +1,6 @@
+Order ID,Customer Name,Order Type,Preparation Time,Station,Priority,Arrival Time,Completion Time,Wait Time,Turnaround Time
+5, Eve,online,6,Oven,2,0,6,0,6
+4,Diana,dine-in,7,Grill,1,6,13,6,7
+3,Charlie,online,8,Oven,1,13,21,13,8
+1,Alice ,dine-in,9,Grill,1,21,30,21,9
+2,Bob,takeaway,5,Fryers,1,30,35,30,5
